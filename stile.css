@@ -1,6 +1,12 @@
 p {
   color: pink;
 }
+
 #boh {
   background-color: beige;
+}
+
+.classe1 {
+  font-family: Calibri;
+  background-color: black;
 }
